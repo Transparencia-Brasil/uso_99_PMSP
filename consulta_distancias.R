@@ -9,7 +9,6 @@ library(ggplot2)
 library(dplyr)
 library(deflateBR)
 library(stringi)
-library(ggmap)
 library(stringi)
 
 setwd("C:/Users/coliv/Documents/Taxis")
